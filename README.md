@@ -1,5 +1,8 @@
 # KKK
 
+장비번호 : FILM COATING MACHINE TYPE 9320.00.00
+시리얼번호 : 14335-1
+
 
 📄 코팅기 통합 매뉴얼 (한글 + 문제대처 포함)
 1. 🧩 도면 구조 설명 (Machine Layout)
